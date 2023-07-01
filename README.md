@@ -1,2 +1,2 @@
 # GeeoGeeks
-GeoGeeks Quiz App
+GeoGeeks - A quiz App for the gk Experts!!⚡⚡
